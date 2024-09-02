@@ -1,5 +1,5 @@
 
-provider "aws_vpc" {
+provider "aws" {
   region = var.aws_region
 }
 
